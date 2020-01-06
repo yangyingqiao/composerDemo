@@ -1,5 +1,8 @@
 {
-    "name": "joe/test",
-    "type": "1.0",
+    "name": "joe/test3",
+    "description": "a demo",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {}
 }
